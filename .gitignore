@@ -7,3 +7,8 @@
 # Maven
 log/
 target/
+
+
+.allure
+build
+allure-results/
